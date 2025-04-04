@@ -9,9 +9,11 @@
 오늘은 초록색 네모 박스 안에 있는 것만 해볼 것
 
 
-<img src="https://github.com/goeun-oh/systemVerilog/blob/main/4_4/Adder검증/png3.jpg" width=300px>
+<img src="https://github.com/goeun-oh/systemVerilog/blob/main/4_4/Adder검증/png3.png" width=300px>
+
 transcation은 객체, 물체.
 "객체와 객체간의 상호작용"
+
 - testbench
   - env
     - generator:
