@@ -22,7 +22,7 @@ transcation은 객체, 물체.
       -> generator class가 mail box의 요소들도 알아야 한다.  
     - driver: transaction을 sw 로 바꿔서 interface로 넣어준다?  
     - mailbox: 공유 메모리 (Queue)
-      임시공간(mailbox)에 generator가 transaction을 넣어주면,
+      임시공간(mailbox)에 generator가 transaction을 넣어주면,  
       driver가 transaction을 꺼내서 hw 언어?로 바꾼다음 interface로 보내줌
   - interface: hw와 sw 를 연결해주는 통로
   - DUT: 실제 hw core
