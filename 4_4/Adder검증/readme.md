@@ -26,3 +26,7 @@ transcation은 객체, 물체.
       driver가 transaction을 꺼내서 hw 언어?로 바꾼다음 interface로 보내줌
   - interface: hw와 sw 를 연결해주는 통로
   - DUT: 실제 hw core
+
+
+-function과 task의 차이점
+function은 return값이 존재하고 task는 return 값이 없다.
